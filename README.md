@@ -8,19 +8,7 @@ Hybread: V0.2 1.17.X
 
 If you read this:
 
-
-This resource-pack consists in hierarchical configuration the resource packs:
-
-
-1. Faithful 1.17
-
-2. Faithless 1.17
-
-3.Thinner Swords (Hawkbrand Style)
-
-4.vanilla tweaks 1.17
-
-5. THICC skeletons (lmao)
+Hi
 
 
 -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
@@ -41,6 +29,7 @@ Important note 2:
 
 
 The texture art/visuals do NOT belong to me.. (exept for the tripwire hook texture, lol...)
+
 
 -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
